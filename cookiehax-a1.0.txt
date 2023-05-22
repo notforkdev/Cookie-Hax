@@ -5,7 +5,7 @@ function showCookieHaxModMenu() {
     return;
   }
 
-  alert("Welcome to Cookie Hax 1.0!");
+  alert("Welcome to Cookie Hax 1.0 alpha!");
 
   let achievementName = prompt("Enter the name of the achievement (or type 'SKIP' to skip):");
   if (achievementName !== "SKIP") {
