@@ -11,3 +11,5 @@ Then input the code "SUSSY123"
 - Ascend Timer Value
 - Bakary Renamer
 - Cookie Value Setter
+# Notice
+The exploit is probably already broken, dont expect any new updates. Im deprecating this project
